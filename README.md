@@ -1,3 +1,24 @@
+## Date: 05-09-2026 (Session 5 / Week 5)
+
+**Today's Work:**
+- Created `feature/session_5` and `WEEK_5` branches from `develop`.
+- Solved 5 Category C assignment problems under `session_five_topics/assignment_problems/`:
+  - Problem 1: Hackathon Score Curve Booster (HackathonScoreCurveBooster.java)
+  - Problem 2: Duplicate Team Name Finder (DuplicateTeamNameFinder.java)
+  - Problem 3: Top-3 Podium Finder (Top3PodiumFinder.java)
+  - Problem 4: Hackathon Seating Grid Optimizer (HackathonSeatingGridOptimizer.java)
+  - Problem 5: Placement Drive Shortlisting & Ranking Engine (Candidate.java, PlacementDriveEngine.java)
+- Maintained clean package hierarchy matching the project guide and reference photos.
+- Verified each solution with sample test cases and committed/pushed after solving each question.
+
+**Next Session Plan:**
+- Move to Session 6 session work.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
