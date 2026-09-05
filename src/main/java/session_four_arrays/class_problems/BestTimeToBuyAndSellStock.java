@@ -1,4 +1,6 @@
-package functions_arrays.assigment_problems;
+package session_four_arrays.class_problems;
+
+import java.util.Arrays;
 
 public class BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
@@ -22,10 +24,13 @@ public class BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
         BestTimeToBuyAndSellStock solver = new BestTimeToBuyAndSellStock();
-        int profit1 = solver.maxProfit(new int[]{7, 1, 5, 3, 6, 4});
-        System.out.println("Profit 1: " + profit1);
 
-        int profit2 = solver.maxProfit(new int[]{7, 6, 4, 3, 1});
-        System.out.println("Profit 2: " + profit2);
+        int[] prices1 = {7, 1, 5, 3, 6, 4};
+        int profit1 = solver.maxProfit(prices1);
+        System.out.println("Input: " + Arrays.toString(prices1) + " -> Output: " + profit1);
+
+        int[] prices2 = {7, 6, 4, 3, 1};
+        int profit2 = solver.maxProfit(prices2);
+        System.out.println("Input: " + Arrays.toString(prices2) + " -> Output: " + profit2);
     }
 }
