@@ -1,3 +1,87 @@
+## Date: 11-10-2026 (Session 9 / Week 9)
+
+**Today's Work:**
+- Created `feature/session_9` and `WEEK_9` branches from `develop`.
+- Solved 5 Category C assignment problems under `session_nine_abstraction_interface/assignment_problems/`:
+  - Problem 1: Movie Ticket Counter (MovieTicketCounter.java)
+  - Problem 2: Parcel Shipping Desk (ParcelShippingDesk.java)
+  - Problem 3: College Fee Counter (CollegeFeeCounter.java)
+  - Problem 4: City Cab Fare Meter (CityCabFareMeter.java)
+  - Problem 5: Home Appliance Energy Report (HomeApplianceEnergyReport.java)
+- Followed OOP abstraction and interface principles with polymorphism.
+- Verified all programs against sample test cases and pushed to GitHub.
+
+**Next Session Plan:**
+- Move to Session 10 coursework.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 11-10-2026 (Session 8 / Week 8)
+
+**Today's Work:**
+- Created `feature/session_8` and `WEEK_8` branches from `develop`.
+- Solved 5 Category C assignment problems under `session_eight_polymorphism/assignment_problems/`:
+  - Problem 1: The Canteen Billing Counter (CanteenBillingCounter.java)
+  - Problem 2: The Campus Parking Charge Calculator (CampusParkingChargeCalculator.java)
+  - Problem 3: The Hostel Electricity Bill (HostelElectricityBill.java)
+  - Problem 4: The Festival Bonus Calculator (FestivalBonusCalculator.java)
+  - Problem 5: The Streaming Plan Renewal Reminder (StreamingPlanRenewalReminder.java)
+- Applied method overriding, inheritance hierarchy, and polymorphism.
+- Verified all programs against sample test cases and pushed to GitHub.
+
+**Next Session Plan:**
+- Move to Week 9 coursework.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 11-10-2026 (Session 7 / Week 7)
+
+**Today's Work:**
+- Created `feature/session_7` and `WEEK_7` branches from `develop`.
+- Solved 5 Category C assignment problems under `session_seven_encapsulation/assignment_problems/`:
+  - Problem 1: The Health Bar (Character.java)
+  - Problem 2: The Playlist (Playlist.java)
+  - Problem 3: The Password Checker (PasswordChecker.java)
+  - Problem 4: The Traffic Light (TrafficLight.java)
+  - Problem 5: The Shopping Cart (Cart.java)
+- Ensured strict encapsulation, immutable fields, defensive copying, and boundary checks.
+- Verified all programs against sample test cases and pushed to GitHub.
+
+**Next Session Plan:**
+- Move to Week 8 coursework.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 11-10-2026 (Session 6 / Week 6)
+
+**Today's Work:**
+- Created `feature/session_6` and `WEEK_6` branches from `develop`.
+- Solved 5 Category C assignment problems under `session_six_classes_objects/assignment_problems/`:
+  - M1: Library Inventory Management (BookInventory.java)
+  - M2: Payroll Salary Management (PayrollAccount.java)
+  - M3: Employee Profile Creation (Employee.java)
+  - M4: Exam Hall Ticket Reference Management (HallTicket.java)
+  - M5: Employee and Company Information Management (CompanyEmployee.java)
+- Practiced class definitions, constructors, constructor chaining with this(), reference equality, and static members.
+- Verified all programs against sample test cases and pushed to GitHub.
+
+**Next Session Plan:**
+- Move to Week 7 coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026 (Session 5 / Week 5)
 
 **Today's Work:**
