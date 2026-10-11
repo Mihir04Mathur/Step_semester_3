@@ -1,3 +1,24 @@
+## Date: 11-10-2026 (Session 10 / Week 10)
+
+**Today's Work:**
+- Created `feature/session_10` and `WEEK_10` branches from `develop`.
+- Solved 5 Category C array and algorithm problems under `session_ten_topics/assignment_problems/`:
+  - Problem 4: Exam Score Band Counter (ExamScoreBandCounter.java)
+  - Problem 6: Class Attendance Tracker (ClassAttendanceTracker.java)
+  - Problem 7: Second-Best Score (SecondBestScore.java)
+  - Problem 8: Duty Roster Rotation (DutyRosterRotation.java)
+  - Problem 10: Busiest Bus Row (BusiestBusRow.java)
+- Ensured optimal time and space complexity with binary search, single pass scans, and modulo arithmetic.
+- Compiled and verified all test cases, and committed and pushed as a single commit.
+
+**Next Session Plan:**
+- Move to Session 11 coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 11-10-2026 (Session 9 / Week 9)
 
 **Today's Work:**
