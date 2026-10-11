@@ -1,13 +1,20 @@
-## Date: 29-08-2026
+# STEP Semester 3
 
-**Today's Work:**
-- Initialized repository structure.
-- Created `main`, `develop`, and `feature/session_3` branches.
-- Created empty Java project skeleton on `develop` branch.
-- Solved 5 assignment problems for OOP Week 3 under the `control_flow` package on the `feature/session_3` branch.
+Java solutions for STEP Semester 3 sessions.
 
-**Next Session Plan:**
-- Move to next assignment or week's work.
+## Project structure
 
-**Issues Faced:**
-- None
+Each session's topic folder lives under `src` and contains separate folders for
+class problems and assignment problems:
+
+```text
+src/
+└── session_nine_abstraction_interface/
+    ├── class_problem/
+    └── assignment_problem/
+        ├── CityCabFareMeter.java
+        ├── CollegeFeeCounter.java
+        ├── HomeApplianceEnergyReport.java
+        ├── MovieTicketCounter.java
+        └── ParcelShippingDesk.java
+```

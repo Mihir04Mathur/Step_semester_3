@@ -1,4 +1,4 @@
-package session_nine_abstraction_interface.assignment_problems;
+package session_nine_abstraction_interface.assignment_problem;
 
 import java.util.ArrayList;
 import java.util.List;
