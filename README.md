@@ -1,3 +1,26 @@
+# STEP Semester 3
+
+Java session work is organized directly under `src`. Each session has separate
+`class_problem` and `assignment_problem` folders, following the repository
+structure guide.
+
+```text
+src/
+├── session_three_control_flow/
+├── session_four_arrays/
+├── session_five_topics/
+├── session_six_classes_objects/
+├── session_seven_encapsulation/
+├── session_eight_polymorphism/
+├── session_nine_abstraction_interface/
+└── session_ten_topics/
+    ├── class_problem/
+    └── assignment_problem/
+```
+
+Each session folder contains its own `class_problem` and `assignment_problem`
+folders. The sections below are the work log.
+
 ## Date: 11-10-2026 (Session 10 / Week 10)
 
 **Today's Work:**
